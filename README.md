@@ -26,3 +26,7 @@ This project has been implemented using Jupyter Notebooks equiped with various p
       •	Pandas
       •	SKLearn
       •	Pickle
+      
+### Quick Overview:
+
+To view the Testing Notebook which summarizes this entire project, follow this link: https://myfrenkvr0.github.io/iShopper_intent/
